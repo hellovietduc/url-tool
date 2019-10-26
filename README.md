@@ -1,2 +1,3 @@
 # url-tool
-A tool for filtering and converting URLs
+
+A GUI app for filtering and converting URLs
